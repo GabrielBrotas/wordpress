@@ -1,0 +1,15 @@
+** APENAS PARA SITES COM DOMINIO **
+
+   -Site para testar o desempenho do seu site.	
+
+	https://developers.google.com/speed/pagespeed/insights/?hl=pt-br
+
+1ª forma de otimizacao:
+
+	plugin 'EWWW imagee Optimizer' --> configuracoes dele --> Resize --> marcar a opcao Resize direction, Essa configuracao vai marcar as imagens do site que estao mal dimensionada.
+
+2ª forma de otimizacao:
+	
+	Ativar o plugin WP Super Cache, configurar de acordo com o video do guanabara 'https://www.youtube.com/watch?v=c284wAV333g'
+
+	

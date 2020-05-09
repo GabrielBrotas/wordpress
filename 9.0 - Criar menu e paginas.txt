@@ -1,0 +1,32 @@
+Adicionar as paginas que vai ter
+
+1-Paginas 
+	Paginas --> adicionar novo --> colocar o titulo e pubicar
+
+	'home', 'cardapio', 'Quem somos', 'Noticias'
+
+
+2- Menus
+
+	-Aparencia --> Menus
+
+	-digitar o nome e criar ex: 'Principal'
+
+	-marcar o tipo 'Menu principal' neste caso
+
+	- adicinar as paginas criadas ao menu e organizar a ordem, se colocar mais pra dentro um bloco vai ficar como um submenu da categoria de cima.
+
+	- Salvar Menu;
+
+	- ir no topo e clicar em opcoes de telas e habilitar todas as opcoes para o menu
+
+
+
+		
+
+
+
+
+
+
+	

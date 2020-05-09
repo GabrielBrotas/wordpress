@@ -1,0 +1,14 @@
+Para ajustar a pagina para o mobile primeiro temos que ver como esta a visualizacao abrindo em um dispositivo
+
+1ª Forma -
+	Configuracoes do astra, que são as configuracoes gerais:
+
+	- Ir na pagina que vai editar, escolher a opcao e clicar no icone do computador, celular, table, essa opcao vai fazer alterar somentar para a especifica plataforma.
+
+2ª Forma -
+	Configuracao da pagina pelo gutenberg:
+	- Nas opcos de edicao do gutenberg tem versao mobilee
+
+3ª Forma-
+	Microthemer;
+

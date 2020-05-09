@@ -1,0 +1,11 @@
+Para adicionar colunas vamos adicionar um bloco em baixo do destaque -->
+	--> 'blocos do ultimate addons' --> 'colunas avançadas'
+
+	em colunas avançadas podemos escolher q quantidade de colunas que vamos coloca,
+	o tamanho de cada uma delas, etc...
+
+	-Colocar background no bloco de coluna com uma opacidade branca #ffffff
+
+	-Dentro da coluna podemos colocar info box, imagem, etc..
+
+	-Adicionar botao na caixa de informacao indo em 'Call Action' tipo botao

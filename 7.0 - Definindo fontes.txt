@@ -1,0 +1,19 @@
+Escolher fontes web que tem disponivel no Google Fontes.
+
+	https://fonts.google.com/
+
+colocar as fontes que vao estar no site no documento criado para as configuracoes do sitee
+
+
+O ideal é ter dois tipos de fontes, no maximo 3;
+
+(o ideal para o titulo é a mesma fonte do logo, caso tenha)
+Titulo: Berkshire Swash
+
+Conteudo: Josefin Sans
+
+
+
+
+
+

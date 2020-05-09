@@ -1,0 +1,50 @@
+Preparar o ambiente basico para preparar o WP
+
+1 - deletando plugins padrao
+
+- na interface do WP ir em plugins - instalados
+- deletar os dois que vem por padrao
+
+	Akismet Anti-Spam e Hello Dolly
+
+- so deixar os plugins que forem utilizados no site para nao ficar pesado
+  ele pesado fica mais caro e o google nao indica ele para quem pesquisa
+
+2 - ir em aparencia - temas
+
+- instalar o tema 'Astra';
+
+- nao ativar ele, esse vai ser o tema pai a gnt n mexe nele pois ele sofre alteracoes e se ter codigo ali vai sobrescrever
+  para isso tem o tema filho que vai ter as mesmas caracteristicas e vamos fazer nossas alteracoes
+
+- intalar o astra child,
+	digitar no google 'astra child generator' --> 'https://wpastra.com/child-theme-generator/'
+
+	clicar 'generate', vai baixar o arquivo zip
+
+- no wp clicar em 'Enviar tema' e escolher o arquivo zip.
+
+- ativar esse tema e excluir os outros que nao for utilizar, mesnos o astra original (pai);
+
+
+3 - instalar plugins:, clicar em 'adicionar novo'
+
+	1- 'classic editor'				
+	2- 'microthemer lite'		<-- editor de css visual 
+	3- 'ultimate addons' (gutenbertg) e ativar
+
+	ir nos plugins e ativar os 3
+
+	vai aparecer um erro pois tem 2 editores ativos o 'classic' e o 'gutenberg' mas vamos no editor classico - configuracoes 'Editor padrão para todos os usuários' marcar 'editor de blocos' e 'Permitir que os usuários alternem entre editores' marcar 'sim'
+	isso porq o classic editor é mais facil de utilizar entao o cliente vai poder fazer suas proprias manutencoes, adicionar seus produtos, adicionar seus artigos, etc...
+
+	4- 'astra widgets'
+	5- 'companion auto update' <-atualizacao automatica dos plugins e temas
+	6- 'EWWW Image Optimizer' <- melhoras as imagens	(ativar)
+	7- 'rank math'
+	8- 'updraft' <- backup automatico
+	9- 'WP Super Cache' <- deixa o site mais rapido
+	10- 'WPForms Lite'  <- plugin para fazer formulario	(ativar)
+	11- 'WPS Hide Login' 	<- (ativar)
+
+

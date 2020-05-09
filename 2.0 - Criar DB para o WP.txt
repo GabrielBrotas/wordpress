@@ -1,0 +1,6 @@
+1 - criar o DB para sicronizar com o Wordpress
+	- no XAMPP ir em admin
+	- `new`, criar um DB e colocar o nomee
+	- esse db vai ter o usurio 'root' e a senha vazia '';
+
+ 

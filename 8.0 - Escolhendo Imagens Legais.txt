@@ -1,0 +1,24 @@
+Para poder utilizar imagens temos que ter direitos autorais sobre elas.
+
+banco de imagens pagas:
+
+	https://stock.adobe.com/br/
+	https://www.shutterstock.com/pt/
+
+
+banco de imagens gratuitas:
+
+
+	https://www.pexels.com/
+
+	https://pixabay.com/pt/
+
+	https://unsplash.com/
+
+
+utilizar tamanhos 'medium' ou 'smal' dependendo do destaque da foto
+
+PNG apenas para imagens que nao tem fundo, para deixar transparente
+JPG para todas;
+
+

@@ -1,0 +1,32 @@
+1 - ir na dashboad --> WPForms (plugin instalado) --> adicionar novo --> Digitar o nome do Formulario --> escolher o modelo;
+
+2 - no menu do formulario vai ter as opcoes 'Campo de texto' 'nome' etc....
+
+3 - Para colocar formularios ao lado do outro ir no formulario --> Classe CSS --> e escolher o layout e a posicao do formulario atual;
+    escolher o segundo formulario, escolher o mesmo layout e colocar na outra coluna;
+    Visualmente nao vai alterar nada porem na pagina vai aparecer o layout;
+
+4 - Para configurar o formato de telefone no formulario vamos no campo de texto criado e digitar na 'Mascara de entrada' (99) 9999-9999[9] <- vai aceitar fixo e celular q tem um digito a mais
+
+5 - depois de criado o formulario e em Configuracoes (3ª opcao) -->
+
+	5.1 - Geral -->
+	preencher as informacoes, descrição, colocar uma classe para editar no microthemer depois (ex: meu-formulario)
+	tambem colocar uma classe para o botao enviar (ex:meu-formulario-botao);
+
+	5.2 - Notificacoes -->
+	 1º - Email que vai ser enviado aquela mensagem, por padrao é usado a tag inteligente configurada para o email colocado no wordpress
+	 2º - No assuntos podemos utilizar tags inteligente, ex: {field_id="2"} que falar com {field_id="7"}
+	 3º - Email do remetente 
+
+	5.3 - Confirmação -->
+	Escolher o tipo de confirmação se é por email, redirecionamento, etc...
+
+6 - Implementar no site o formulario -->
+	
+	depois de salvo vai criar um shortcode que vai aparecer na opcao 'Incorporar', vamos copiar o codigo...
+	ir na pagina onde vai implemeentar esse formulario --> editar pagina...
+
+	colocar o codigo (ex: [wpforms id="104" title="false" description="false"] ) na edição, salvar e pronto.
+
+ 

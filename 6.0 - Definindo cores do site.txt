@@ -1,0 +1,27 @@
+1- ir no 'http://www.colourlovers.com/' e procurar pelo tema do site, escolher a combinação, obs. O tamanho da barra na paleta de cor é correspondente ao uso dela no site, quanto mais utilizada maior a barra.
+	
+	- teoria das cores == https://www.chiefofdesign.com.br/teoria-das-cores/
+
+	- usar o plugins da paleta de cores (colorzilla) e pegar o codigo das cores;
+
+	- criar um documento no Google Docs para poder compartilhar as configuracoes do site com o cliente.
+	  colocar a tabela de cores que vai utilizar no documeento junto com o codigo
+ 	
+
+2 - https://color.adobe.com/create
+
+
+	- neste site ele vai mostrar a relação entre as cores que vamos utilizar, colocamos a codigo da cor e o app vai nos dar as combinacoes analogicas, monocromaticas, etc...
+
+
+3  - https://coolors.co/
+
+	
+	- neste site vai agir semelhante ao de cima, vamos colocar a cor principal no meio e clicar no cadeado para travar ela, em seguida vamos clicando espaco ate ver uma cor que combine e ir bloqueando ate achar a paleta de cores ideal.
+
+	ex: #C05746, #4CB944, #F47521, #A57F60, #EACF6E, #010101,
+
+
+	nao vai ser obrigado a usar todas essas cores, mas vão ser a referencia para o site.
+
+

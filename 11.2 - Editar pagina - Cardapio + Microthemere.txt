@@ -1,0 +1,42 @@
+
+1 - Criar seção full width
+
+2 - Deixar a tag como H2
+
+3 - Nessa mesma seção adicionar 'lista de preço' <- bloco do Ultimate Addons
+
+4 - Adicionar as imagens, posicao da imagem...
+
+5 - Titulo dos itens no h3
+
+6 - microthemer para ajustar coluna dos menu:
+	- na secao que vai editar com o microthemer (neste caso vai ser o cardapio)
+	  ir em avançado - > Classes CSS adicionais --> da um nome a essa classe(ex:cardapiohome) pois vamos criar uma alteracao local se nao vai alterar todos os menus que for criado.
+	- salvar
+	- ir na visualizacao da pagina que vai editar
+	- no microthemer clicar em destino -> mostrar avançado
+	- com o destino selecionar a coluna que vai abaixar, neste caso vai ser a coluna onde fica o menu e a descrição,
+	  no canto superior direito clicar na 2ª opcao onde vai pegar os 4 item do menu
+
+	- agora no topo em 'Rotulo' ou "codigo" clicar no <8> e vamos colocar o nome da classe criada para fazer uma alteracao local.
+
+		ex: antes: #post-7 .uagb-rm__title-wrap
+		    depois:  .cardapiohome .uagb-rm__title-wrap 
+
+	- clicando no <8> dnv agora vamos alterar o nome desse rotulo para qualquer um
+
+		ex: Titulo Cardapio Home
+
+	- depois clicar em 'criar seletor'
+
+	- para alterar o tamanho da coluna vamos em layout --> width e alterar
+
+	- depois de alterado a coluna dos texto fazer a mesma coisa para a coluna do preço, obs. o salvamento é automatico
+
+	- Adicionar botao para transferir para area de cardapios
+
+	- bloco do Ultimate Addons --> Multibotoes
+
+	- remover o segundo botao e formatar o primeiro com cor, hover e link,
+
+	- criar um bloco 'espacador' para criar espaco entre o menu e o botao 		

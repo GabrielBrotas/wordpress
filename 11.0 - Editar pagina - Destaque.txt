@@ -1,0 +1,35 @@
+Para editar uma pagina podemos ir na dashboard --> todas as paginas --> escolher a pagina e ir em editor de blocos(gutenberg)
+
+ou ir no site(como administrador) e clicar em 'editar pagina'
+
+- Vamos criar uma section na pagina 'home' essa section vai ter uma imagem de apresentacao da pag.
+
+	- Clicar no '+' para adicionar um bloco;
+
+	- 'Blocos do Ultimate Addons' - esse bloco tem opcoes mais avancadas;
+
+	- Nessa caixa que vai criar, vamos no layout... em 'Content Width' colocar 'Full width' para ocupar todo o espaço;
+
+	- No 'Spacing' vamos colocar um padding no conteudo, 250 em cima e 250 em baixo para colocar uma imagem
+
+	- Em 'Background' ou 'Fundo' vamos adicionar uma imagem, configurar a resolucao e tamanho da imagem no photoshop, enviar a imagem, preencher os textos, titulos, legenda, etc...
+
+	- A imagem vamos deixar 'Fixed' para dar um efeito de rolamento;
+
+	- Configurar o size de acordo com a imagem;
+
+	- Quando formos colocar um Texto em cima da imagem vai ficar ruim de ler por causa que a imagem vai chamar mais atenção,
+	  Para tirar o foco da imagem vamos criar um overlayer (sobre camada) com uma cor cinza e colocar a opacidade entre 40-50,
+	  com isso o foco vai ser o texto que evamos criar 
+
+	- Colocar um bloco em cima da imagem --> deletar algum paragrafo ou texto casao ja tenha -->
+	  Clicar no '+' que aparece em cima da imagem para adicionar um bloco --> 'Blocos do Ultimate Addons' -->
+	  'Caixa de informacao';
+
+	- Alterar todas as cores para branco caso necessario para visualizar o conteudo;
+	- Colocar um icone ou imagem png no topo para estilo;
+	- Adicionar o nome do restaurante no prefixo com a fonte formatada
+	- no Title Tag vamos colocar como H1 para o google indexar de acordo com esse nome;
+	- adicionar legendas;
+	
+	

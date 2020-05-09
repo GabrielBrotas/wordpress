@@ -1,0 +1,34 @@
+1 - baixar o arquivo zip no site da wordpress.org
+ 
+2 - ir no disco local c --> xampp --> htdocs
+
+	C:\xampp\htdocs, pasta onde foi instalado o xampp
+
+3 - colar o arquivo zip do wordpress nesta pagina
+
+4 - renomear a pasta extraida 'wordpress' para o nome do site, ex 'cursowp'
+
+5 - ir no xampp --> apache --> admin,
+
+	vai abrir o    'http://localhost/dashboard/'
+	substituir por 'http://localhost/cursowp/'
+
+   vai abrir o configurador dp WP
+
+vai pedir o 
+
+Nome do banco de dados	-->  'cursoemvideowp' (DB criado)
+Nome de usuário do banco de dados --> 'root' (root)
+Senha do banco de dados	 --> ''  ('')
+Servidor do banco de dados --> 'localhost'
+Prefixo de tabela (se quiser rodar mais de um WordPress no mesmo banco de dados) --> 'cev_
+
+6 - instalar o WP
+
+titulo do site ...
+nome de usuario...
+senha...
+email...(é ideal criar um email separado para este site para n receber span dos usuarios)
+Visibilidade nos mecanismos de busca... (para o google colocar o site no filtro de busca) deixar desmarcado para aparecer aos outros
+
+7 - WP instalado, digitar o usuario e a senha e vai estar no painel do WP.

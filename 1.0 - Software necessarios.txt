@@ -1,0 +1,24 @@
+
+1 - Filezilla -- vai passar os arquivos por FTP(File Transfer Protocol) direto para o site;
+
+2 - PuTTy - software de emulação de terminal grátis e de código livre;
+
+3 - ColorZilla - extensao do google chrome para identificar cores;
+
+4 - fontface ninja - extensao do chrome para identificar fonts;
+
+5 - notepad++ - editor de codigo
+
+5.1 - instalar plugin do FTP no notepad++
+	- no editor ir em --> plugins --> gerenciador de plugins --> pesquisar o plugin `ftp` --> instalar o NppFTP
+	- quando instalado ir em plugins dnv e vai ter a opcao NppFTP --> `show NppFTP Window` - no botao `show messages window`
+
+6 - XAMPP - criar um server local para o site
+	-Start no apache pra iniciar o servidor
+	-Start mySQL
+
+	-digitar no navegador `//localhost` vai abrir o servidor
+	- se clicar stop vai encerrar o servidor
+
+	- `http://localhost/phpmyadmin/` vai abrir a configuracao do DB (phpmyadmim) para criar bancos, tabelas...
+

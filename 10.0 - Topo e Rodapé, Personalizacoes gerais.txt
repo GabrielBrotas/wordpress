@@ -1,0 +1,47 @@
+1 - ir em Aparencia - Personalizar
+
+1- no layout vamos definir o Cabeçalho;
+
+	--> Identidade do site;
+		- Criar um logo para colocar: Logomakr.com
+		- tirar print
+		- ir no photoshop -->imagem --> tamanho da imagem --> reduzir para 72 a resolucao e colocar um tamanho menor(100x40 por exemplo)
+		- adicionar o logo e preencher os titulo ('Parole Pizzaria'), descricao, texto, legenda isso vai ajudar a indexar a pagina no googlee
+		- recortar e aplicar
+		- Largura da logo = 132;
+		- Ocultar o titulo já que o logo vai repor
+		- publicar para salvar
+
+	--> Menu principal:
+		- Ultimo item do menu vamos colocar um botao para transferir para contato
+		- Link do botao vamos colocar o url da pag de contato 'https://localhost/cursowp/contato/'	
+		- editar o botao do tema;
+			-Colocar a cor do texto, cor de fundo, raio da borda...
+		-  configurar o ponto de quebra para dispositivos moveis 
+
+	--> Lateral:
+		- Retirar todas as barras lateral (só utilizar quando preciso)
+	
+	--> Rodapé:
+		- Editar a barra do rodapé colocando conteudo html 'Copyright © [current_year] [site_title] | Criado por <a href="https://github.com/GabrielBrotas" target="_blank">Gabriel Brotas</a>'
+
+	--> Global --> Conteines:
+		- para alterar a largura e formato do conteudo do site.
+
+	--> Global --> Cores:
+		- colocar a cor do tema (cor principal), cor do link e dos texto. #ff8800
+
+	--> Global --> Tipografia --> Tipografia base:
+		- Colocar a familia (ex: Josefin Sans) e a variante (ex: Normal 400)
+
+	-> Global --> Tipografia --> Tipografia titulo:
+		- Alterar de acordo com a fonte definida para os titulos
+		- existe um padrao para o tamanho das letras mas dependendo da fonte temos q alterar
+			(titulo 1 = 100, titulo 2 = 50, titulo 3 = 36, titulo 4 = 28, titulo 5 = 22, titulo 6 = 18)
+		
+	--> Configuracoes da pagina inicial:
+		- vamos configurar para quando clicar no logo transeferir para uma pagina especifica, a principal
+		- selecionar 'uma pagina estatica'
+		- 'Pagina inicial' = 'Home'
+		
+		

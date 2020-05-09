@@ -1,0 +1,10 @@
+** USANDO O LOCAL HOST **
+Para pegar um modelo/template do astra vamos primeiro ter que aumentar o timeout (tempo de espera para um acontecimento)
+
+	1 - ir na pasta do xampp --> php --> abrir o arquivo php.ini no notepad++ --> ctrl+f e procurar 'max_exe', geralmente vai vim configurando com 30s ate derrubar o evento porem para carregar um site vamos precisar de 2 a 10min geralmente, entao alteramos esse tempo.
+
+	2 - feito isso vamos vamos instalar o plugin astra starter sites e o gutenberg blocks
+
+	3 - ir em aparencia --> Astra starter sites --> escolher o builder gutenberg --> clicar em visualizar o tema e 'Import Site';
+
+	4 - Done!

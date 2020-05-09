@@ -1,0 +1,13 @@
+
+1 - Criar seção full width
+
+2 - colocar 4 colunas avançadas (2 em cima e 2 em baixo)
+
+3 - na primeira colocar outra seção para inserir um background de aspas com uma cor em cima para deixar fraca;
+
+4 - colocar uma infobox em baixo com o h3 'Depoimentos'
+
+5 - nas outras 3 caixa colocar 'bloco do ultimate addons' --> 'Depoimentos';
+
+6 - personalizar do seu jeito com fotos, descrição, etc.. (editar o tamanho dos rosto para miniatura 120x120 px aproximadamente é o ideal)
+

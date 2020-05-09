@@ -1,0 +1,12 @@
+No microthemer vamos fazer oq nao conseguimos fazer com o layout do tema.
+
+clicando em 'Destino' e opções avançadas vamos escolher o elemento que vamos editar.
+
+Depois de escolhido o elemento vamos alterar o rotulo
+
+ao lado do rotulo e do <8> tem uma engrenagem, nessa engrenagem vamos alterar os eventos (:hover, :focus, etc..)
+
+Ctrl + alt + h -> para visualizar a area q ta editando
+
+
+depois podemos mexer nas configuraoes do css.

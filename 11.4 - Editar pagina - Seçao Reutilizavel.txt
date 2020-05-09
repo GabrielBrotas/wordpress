@@ -1,0 +1,13 @@
+Criar seção para reutilizar em todoas as paginas (como um rodapé)
+
+1 - Criar seção full width
+
+2 - editar essa seção como quiser (caso for um rodape colocar o tipo dele como 'footer' e etc..)
+
+3 - clicar na secao para pegar todo conteudo --> na barra superior clicar nos 3 pontos (mais opções) -->
+	--> 'Adicionar aos blocos reutilizaveis' --> digitar o nome desse bloco
+
+	feito isso criamos um bloco novo
+
+4 - para reutilizar esse bloco vamos na pagina --> adicionar elemento '+' --> 'Reutilizaveis' --> O bloco criado vai estar la.
+

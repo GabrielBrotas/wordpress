@@ -1,0 +1,41 @@
+- para criar posts vamos no painel de controle do WP na secao posts
+
+Criar Posts:
+   - categorias e tags:
+	- Categorias vai ser o  tema de cada post basicamente (ex: Eventos, Noticias, Receitas...)
+	- as categorias podem ter categorias ascendente, ou seja, uma subcategoria, ex: 'Eventos' pode ter 'Noticias' como categoria ascendente.
+	- nao precisa colocar o slug, ele é autopreenchido
+
+	- Categorias são importantes para organizar o conteudo dos posts.
+	- Tags são 'subcategorias' usadas para fazer um filtro, tipo do instagram ou youtube.
+	- Para criar tags apenas ir em sua opção, colocar um nome e criar, Ex: salada, politica, ação, carne, etc..
+
+
+   - Adicioar post:
+	- 'Adicionar novo'
+	- Colocar o titulo, ex: Almoço executivo;
+	- Adicionar Galeria de imagens
+	   -> adicionar bloco -> 'Galeria' (bloco do WP)
+	   -> escolher as fotos -> adicionar legendas
+	   -> formatar o layout
+	- Na galeria na opção 'Apontar Para' vamos colocar arquivo de midia para poder abrir as fotos ao clicar, porém ao clicar na foto so vai poder fechar clicando 	       na seta de voltar a pagina e para consertar isso vamos usar um plugin
+	- Instalar o plugin antes chamado 'Simple Lightbox'
+	- Configurações do Simple Lightbox ->
+		- ir nos settings ->
+		- configurar da sua preferencia, ex: 'Enable on Pages' <- desmarcar pois só queremos nos posts, 'Enablee on Archive pages' <- off ...
+
+	- Nas configurações do post ir em --> Categorias e indexa-lo em uma, ex: Noticias
+	- Adicionar tags;
+	- Adicionar algum resumo da noticia pois ela que vai chamar o leitor para ler a noticia completa;
+	
+
+	- Instalar plugins "Post Types Order" e "Post Expirator"
+	- Apos instalado e ativado o Post Expirator vai poder dar uma data de validade para o post e escolher o que fazer com ele, transformar em rascunho, deletar, etc..
+	- O Post Types Order vai habilitar mover os posts para organizar por ordem de aparição.
+
+
+   - Mostrar posts na pagina:
+	- Na pagina onde vai ficar as noticias vamos colocar o bloco 'Grade de posts' ou 'Posts em alvenaria'
+	
+	 
+ 

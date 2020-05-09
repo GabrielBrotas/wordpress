@@ -1,0 +1,51 @@
+
+1 - Configuracoes --> Geral
+
+	Para evitar de ficar o nome 'inseguro' ao lado do url do site vamo nas configuracos do WP
+	no endereco do url e do site vai estar assim:
+
+	** APENAS USAR HTTPS SE FOR EM UM DOMINIO, NAO UTILIZAR CASO SEJA LOCALHOS***
+
+		http://localhost/cursowp
+
+	mudar os dois para https:
+
+		https://localhost/cursowp
+
+
+
+	 - 'Membros', so habilitar se o site for aceitar cadastros, login... 
+	Nesse exemplo vamos criar um site de comida entao nao vamos precisar.
+
+
+	 Em 'Login url' vamos alterar o /login , pois esse é um padrao e caso alguem tente acessar as config do seu site nao vai conseguir.
+	
+		http://localhost/cursowp/gestao/
+
+	 Em 'Redirection url' vai ser onde a pessoa vai ser redirecionada ao errar o login do site
+
+2 - Configuracoes --> Leitura
+	conferir se 'Visibilidade nos mecanismos de busca' esta desmarcado
+
+3 - Configuracoes --> Links permanentes
+	deixar em Mes e nome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
