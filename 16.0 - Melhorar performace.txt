@@ -10,6 +10,6 @@
 
 2ª forma de otimizacao:
 	
-	Ativar o plugin WP Super Cache, configurar de acordo com o video do guanabara 'https://www.youtube.com/watch?v=c284wAV333g'
+	Ativar o plugin W3 Total Cache, configurar de acordo com o video do guanabara https://www.youtube.com/watch?v=aHFKoNm8O24
 
 	
